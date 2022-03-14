@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://prajulaadityaa007:prajulaadityaa007@gradpalconnector.anfms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c2ae3496aced231a6f4f",
+  "githubSecret": "73906ecf55d7a8d234e12397126eda556da983be"
+}
